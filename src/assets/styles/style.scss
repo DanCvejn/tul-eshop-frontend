@@ -8,4 +8,9 @@
   margin: 0;
   scroll-behavior: smooth;
   box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+.menu-link {
+  @apply text-white no-underline font-martian font-bold text-lg uppercase;
 }
